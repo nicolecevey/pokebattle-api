@@ -6,7 +6,8 @@
     "healthPoint": 48,
     "name": "Ditto",
     "image": "http://localhost:8080/ditto.jpg",
-    "artwork": "http://localhost:8080/artwork/ditto.png"
+    "artwork": "http://localhost:8080/artwork/ditto.png",
+    "description": "Ditto will transform into anything it sees, even inanimate objects."
   },
   {
     "id": "46d25b9c-0917-46fa-9f2f-2bafb338488d",
@@ -15,7 +16,8 @@
     "healthPoint": 40,
     "name": "Voltorb",
     "image": "http://localhost:8080/voltorb.jpg",
-    "artwork": "http://localhost:8080/artwork/voltorb.png"
+    "artwork": "http://localhost:8080/artwork/voltorb.png",
+    "description": "Voltorb have very volatile temperaments that induce their explosions"
   },
   {
     "id": "8b94df9b-27ed-43a7-b63a-b4eb6a432af3",
@@ -24,7 +26,8 @@
     "healthPoint": 89,
     "name": "Golurk",
     "image": "http://localhost:8080/golurk.jpg",
-    "artwork": "http://localhost:8080/artwork/golurk.png"
+    "artwork": "http://localhost:8080/artwork/golurk.png",
+    "description": "Golurk is extremely powerful, he must have a seal on its chest to keep its internal energy from leaking out"
   },
   {
     "id": "db27cc37-ea73-4a3a-8cc8-8a960930d7c5",
@@ -32,7 +35,8 @@
     "healthPoint": 200,
     "name": "Regidrago",
     "image": "http://localhost:8080/regidrago.jpg",
-    "artwork": "http://localhost:8080/artwork/regidrago.png"
+    "artwork": "http://localhost:8080/artwork/regidrago.png",
+    "description": "Regidrago can use Dragon-type moves with greater power than other Pokémon thanks to its body composition"
   },
   {
     "id": "52aff715-1549-42a7-ba71-5e182245e371",
@@ -40,7 +44,8 @@
     "healthPoint": 60,
     "name": "Gengar",
     "image": "http://localhost:8080/gengar.jpg",
-    "artwork": "http://localhost:8080/artwork/gengar.png"
+    "artwork": "http://localhost:8080/artwork/gengar.png",
+    "description": "Gengar can cast curses on their victims, simply to immobilize them in extreme agony and pain."
   },
   {
     "id": "a8ad8ec7-d45d-4ed4-961f-049f6147863c",
@@ -49,7 +54,8 @@
     "healthPoint": 108,
     "name": "Garchomp",
     "image": "http://localhost:8080/garchomp.jpg",
-    "artwork": "http://localhost:8080/artwork/garchomp.png"
+    "artwork": "http://localhost:8080/artwork/garchomp.png",
+    "description": "Garchomp can fly in high velocity of sound in the air when folding their bodies and stretching their wings."
   },
   {
     "id": "c54e3644-0676-4d54-9cff-6d993dcafddd",
@@ -58,7 +64,8 @@
     "healthPoint": 79,
     "name": "Blastoise",
     "image": "http://localhost:8080/blastoise.jpg",
-    "artwork": "http://localhost:8080/artwork/blastoise.png"
+    "artwork": "http://localhost:8080/artwork/blastoise.png",
+    "description": "From the spouts on its shell, Blastoise can fire water bullets with amazing accuracy, able to hit a target more than one hundred and sixty feet away."
   },
   {
     "id": "9c99c547-e22f-438f-a0cb-81e61048dde8",
@@ -67,7 +74,8 @@
     "healthPoint": 80,
     "name": "Blaziken",
     "image": "http://localhost:8080/blaziken.jpg",
-    "artwork": "http://localhost:8080/artwork/blaziken.png"
+    "artwork": "http://localhost:8080/artwork/blaziken.png",
+    "description": "The stronger their foes are, the stronger these flames burn, and the more determined Blaziken are to defeat them."
   },
   {
     "id": "958a51cd-e69a-424b-9456-1cb117a39544",
@@ -76,7 +84,8 @@
     "healthPoint": 85,
     "name": "Noivern",
     "image": "http://localhost:8080/noivern.jpg",
-    "artwork": "http://localhost:8080/artwork/noivern.png"
+    "artwork": "http://localhost:8080/artwork/noivern.png",
+    "description": "Noivern emits an explosive sound wave that attacks all nearby enemies and allies. The ultrasonic sound waves Noivern emits are strong enough to shatter large boulders. "
   },
   {
     "id": "3ba08413-f0f3-4878-a9f3-7db1b59eeb4b",
@@ -85,7 +94,8 @@
     "healthPoint": 95,
     "name": "Umbreon",
     "image": "http://localhost:8080/umbreon.jpg",
-    "artwork": "http://localhost:8080/artwork/umbreon.png"
+    "artwork": "http://localhost:8080/artwork/umbreon.png",
+    "description": "Umbreon release the energy at night or when they are excited, and can use it to strike fear into bystanders to scare them away."
   },
   {
     "id": "c5e904ce-cbd1-4922-88a9-f0e6985dcfcd",
@@ -94,7 +104,8 @@
     "healthPoint": 130,
     "name": "Lapras",
     "image": "http://localhost:8080/lapras.jpg",
-    "artwork": "http://localhost:8080/artwork/lapras.png"
+    "artwork": "http://localhost:8080/artwork/lapras.png",
+    "description": "With Water Absorb, Lapras can heal 1/4 of its max HP if it is hit with a Water-type attack. With the ability Shell Armor, Lapras can block any Critical Hits"
   },
   {
     "id": "fb813779-dbde-4c99-a507-ed4d24792d68",
@@ -103,7 +114,8 @@
     "healthPoint": 55,
     "name": "Eevee",
     "image": "http://localhost:8080/eevee.jpg",
-    "artwork": "http://localhost:8080/artwork/eevee.png"
+    "artwork": "http://localhost:8080/artwork/eevee.png",
+    "description": "Eevee is said to have an irregularly-shaped genetic structure, enabling it to evolve into multiple Pokémon."
   },
   {
     "id": "197a61ea-05cd-490b-b87b-3d8d16965b8f",
@@ -112,7 +124,8 @@
     "healthPoint": 72,
     "name": "Greninja",
     "image": "http://localhost:8080/greninja.jpg",
-    "artwork": "http://localhost:8080/artwork/greninja.png"
+    "artwork": "http://localhost:8080/artwork/greninja.png",
+    "description": "Greninja use swift movements to confuse their enemies while they slice them up with throwing stars made of compressed water."
   },
   {
     "id": "f0a3e611-da39-4dcd-89a6-a9dfb76e599a",
@@ -121,7 +134,8 @@
     "healthPoint": 95,
     "name": "Milotic",
     "image": "http://localhost:8080/milotic.jpg",
-    "artwork": "http://localhost:8080/artwork/milotic.png"
+    "artwork": "http://localhost:8080/artwork/milotic.png",
+    "description": "Milotic has the ability to calm rage and strife among people."
   },
   {
     "id": "54289b44-ac92-46b9-b0c0-9549e33095ce",
@@ -129,7 +143,8 @@
     "healthPoint": 126,
     "name": "Xerneas",
     "image": "http://localhost:8080/xerneas.jpg",
-    "artwork": "http://localhost:8080/artwork/xerneas.png"
+    "artwork": "http://localhost:8080/artwork/xerneas.png",
+    "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival."
   },
   {
     "id": "417ea808-bf80-4b90-ae75-d35c8b78cfa8",
@@ -137,7 +152,8 @@
     "healthPoint": 105,
     "name": "Rayquaza",
     "image": "http://localhost:8080/rayquaza.jpg",
-    "artwork": "http://localhost:8080/artwork/rayquaza.png"
+    "artwork": "http://localhost:8080/artwork/rayquaza.png",
+    "description": "Rayquaza is commissioned with the natural duty of shielding Earth from meteorites and similar threats."
   },
   {
     "id": "2d6c4724-3ec9-4f57-9907-b9a7b3701630",
@@ -146,7 +162,8 @@
     "healthPoint": 106,
     "name": "Mewtwo",
     "image": "http://localhost:8080/mewtwo.jpg",
-    "artwork": "http://localhost:8080/artwork/mewtwo.png"
+    "artwork": "http://localhost:8080/artwork/mewtwo.png",
+    "description": "As evidence of its immense power, Mewtwo is by far one of the most domineering Pokémon in the series."
   },
   {
     "id": "58575d88-705f-441b-a3b9-cc693668e693",
@@ -155,7 +172,8 @@
     "healthPoint": 100,
     "name": "Suicune",
     "image": "http://localhost:8080/suicune.jpg",
-    "artwork": "http://localhost:8080/artwork/suicune.png"
+    "artwork": "http://localhost:8080/artwork/suicune.png",
+    "description": "Suicune embodies the compassion of a pure spring of water. This Pokémon has the power to purify dirty water."
   },
   {
     "id": "63d843f2-f992-46af-aae0-461dd3c648bd",
@@ -164,7 +182,8 @@
     "healthPoint": 78,
     "name": "Charizard",
     "image": "http://localhost:8080/charizard.jpg",
-    "artwork": "http://localhost:8080/artwork/charizard.png"
+    "artwork": "http://localhost:8080/artwork/charizard.png",
+    "description": "Charizard seeks out stronger foes and only breathes fire during battles with worthy opponents. The fiery breath is so hot that it can turn any material to slag."
   },
   {
     "id": "2160c5c8-756f-492b-8551-4f503adabeef",
@@ -173,6 +192,7 @@
     "healthPoint": 35,
     "name": "Pikachu",
     "image": "http://localhost:8080/pikachu.jpg",
-    "artwork": "http://localhost:8080/artwork/pikachu.png"
+    "artwork": "http://localhost:8080/artwork/pikachu.png",
+    "description": "If someone pulls or steps on its tail, it is most likely it will bite or shock anyone in the area, including the one who pulled its tail."
   }
 ]
