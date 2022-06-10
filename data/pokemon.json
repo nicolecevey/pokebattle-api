@@ -1,0 +1,138 @@
+[
+  {
+    "id": "984bf6d8-ac30-4ab4-b567-9787cf784332",
+    "ability1": "limber",
+    "ability2": "imposter",
+    "healthPoint": 48,
+    "name": "ditto"
+  },
+  {
+    "id": "46d25b9c-0917-46fa-9f2f-2bafb338488d",
+    "ability1": "soundproof",
+    "ability2": "static",
+    "healthPoint": 40,
+    "name": "voltorb"
+  },
+  {
+    "id": "8b94df9b-27ed-43a7-b63a-b4eb6a432af3",
+    "ability1": "iron-fist",
+    "ability2": "klutz",
+    "healthPoint": 89,
+    "name": "golurk"
+  },
+  {
+    "id": "db27cc37-ea73-4a3a-8cc8-8a960930d7c5",
+    "ability1": "dragons-maw",
+    "healthPoint": 200,
+    "name": "regidrago"
+  },
+  {
+    "id": "52aff715-1549-42a7-ba71-5e182245e371",
+    "ability1": "cursed-body",
+    "healthPoint": 60,
+    "name": "gengar"
+  },
+  {
+    "id": "a8ad8ec7-d45d-4ed4-961f-049f6147863c",
+    "ability1": "sand-veil",
+    "ability2": "rough-skin",
+    "healthPoint": 108,
+    "name": "garchomp"
+  },
+  {
+    "id": "c54e3644-0676-4d54-9cff-6d993dcafddd",
+    "ability1": "torrent",
+    "ability2": "rain-dish",
+    "healthPoint": 79,
+    "name": "blastoise"
+  },
+  {
+    "id": "9c99c547-e22f-438f-a0cb-81e61048dde8",
+    "ability1": "blaze",
+    "ability2": "speed-boost",
+    "healthPoint": 80,
+    "name": "blaziken"
+  },
+  {
+    "id": "958a51cd-e69a-424b-9456-1cb117a39544",
+    "ability1": "frisk",
+    "ability2": "infiltrator",
+    "healthPoint": 85,
+    "name": "noivern"
+  },
+  {
+    "id": "3ba08413-f0f3-4878-a9f3-7db1b59eeb4b",
+    "ability1": "synchronize",
+    "ability2": "inner-focus",
+    "healthPoint": 95,
+    "name": "umbreon"
+  },
+  {
+    "id": "c5e904ce-cbd1-4922-88a9-f0e6985dcfcd",
+    "ability1": "water-absorb",
+    "ability2": "shell-armor",
+    "healthPoint": 130,
+    "name": "lapras"
+  },
+  {
+    "id": "fb813779-dbde-4c99-a507-ed4d24792d68",
+    "ability1": "run-away",
+    "ability2": "adaptability",
+    "healthPoint": 55,
+    "name": "eevee"
+  },
+  {
+    "id": "197a61ea-05cd-490b-b87b-3d8d16965b8f",
+    "ability1": "torrent",
+    "ability2": "protean",
+    "healthPoint": 72,
+    "name": "greninja"
+  },
+  {
+    "id": "f0a3e611-da39-4dcd-89a6-a9dfb76e599a",
+    "ability1": "marvel-scale",
+    "ability2": "competitive",
+    "healthPoint": 95,
+    "name": "milotic"
+  },
+  {
+    "id": "54289b44-ac92-46b9-b0c0-9549e33095ce",
+    "ability1": "fairy-aura",
+    "healthPoint": 126,
+    "name": "xerneas"
+  },
+  {
+    "id": "417ea808-bf80-4b90-ae75-d35c8b78cfa8",
+    "ability1": "air-lock",
+    "healthPoint": 105,
+    "name": "rayquaza"
+  },
+  {
+    "id": "2d6c4724-3ec9-4f57-9907-b9a7b3701630",
+    "ability1": "pressure",
+    "ability2": "unnerve",
+    "healthPoint": 106,
+    "name": "mewtwo"
+  },
+  {
+    "id": "58575d88-705f-441b-a3b9-cc693668e693",
+    "ability1": "pressure",
+    "ability2": "inner-focus",
+    "healthPoint": 100,
+    "name": "suicune"
+  },
+  {
+    "id": "63d843f2-f992-46af-aae0-461dd3c648bd",
+    "ability1": "blaze",
+    "ability2": "solar-power",
+    "healthPoint": 78,
+    "name": "charizard"
+  },
+  {
+    "id": "2160c5c8-756f-492b-8551-4f503adabeef",
+    "ability1": "static",
+    "ability2": "lightning-rod",
+    "healthPoint": 35,
+    "name": "pikachu"
+  }
+]
